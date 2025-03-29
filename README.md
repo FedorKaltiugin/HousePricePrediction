@@ -12,5 +12,5 @@ A machine learning project for predicting house prices based on real estate data
 ##  Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YOUR_USERNAME/HousePricePrediction.git
+git clone https://github.com/FedorKaltiugin/HousePricePrediction.git
 cd HousePricePrediction
